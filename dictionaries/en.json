@@ -1,0 +1,14 @@
+{
+  "navigation": {
+    "home": "Home",
+    "about": "About"
+  },
+  "signinReg": {
+    "username": "Username",
+    "password": "Password",
+    "pageTitle": "Welcome to APP",
+    "loginButton": "Sign in",
+    "notYetMember": "Not a member yet?",
+    "registerLink": "Register for a free account."
+  }
+}

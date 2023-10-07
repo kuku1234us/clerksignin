@@ -1,0 +1,14 @@
+{
+  "navigation": {
+    "home": "首页",
+    "about": "关于我们"
+  },
+  "signinReg": {
+    "username": "登录名称",
+    "password": "密码",
+    "pageTitle": "欢迎登录",
+    "loginButton": "登 录",
+    "notYetMember": "还不是会员？",
+    "registerLink": "免费创建新账户。"
+  }
+}
